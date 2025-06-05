@@ -1,7 +1,5 @@
 target/
-*.iml
-*.log
-*.idea/
-*.class
-*.jar
-*.md
+.git/
+.gitignore
+README.md
+Dockerfile
